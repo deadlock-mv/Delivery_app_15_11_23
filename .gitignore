@@ -1,4 +1,5 @@
 # ignore all log files
-.*log
+*.log
 
-.\front\node_modules
+# ignore frontend node_modules directory
+Frontend/node_modules/
